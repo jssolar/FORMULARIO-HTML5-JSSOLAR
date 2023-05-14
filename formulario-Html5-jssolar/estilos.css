@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+
+/* *{border-color: red;
+ border-style: dotted;}  */
+
+/* .cuello {
+    background-color: green;
+} */
+
+
+.botones {
+    display: flex;
+    justify-content: right;
+    margin: 10px;
+    gap: 1;
+}
+
+
+.tarjetaMaster {
+    color: #ffffff;
+}
+
+.missing {
+    background-color: rgb(221, 154, 154);
+    color: rgb(158, 18, 18);
+}
+
+.borde{
+    border: none;
+    background-color: blue;
+}
+
+.botones {
+    background-color: rgb(233, 238, 240);
+}
+
+.pagos {
+    background-color: rgb(233, 238, 240);
+}
